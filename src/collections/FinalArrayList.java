@@ -18,8 +18,11 @@ public class FinalArrayList {
 		
 		System.out.println("unmodifiableList After adding elements: " + unmodifiableList);
 		
+		
 		// unmodifiableList.add(10); gives UnsupportedOperationException
 		// list=new ArrayList<>(); reinitialize cannot be done beacause list is final.
+		
+		
 
 	}
 
